@@ -13,19 +13,19 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Oleksandr P. Romanchuk"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "Oleksandr P. Romanchuk"
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Sports medicine · Cardiorespiratory and autonomic physiology · Physical rehabilitation"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Academic website of Oleksandr P. Romanchuk, MD, DSc, Professor — research in
+      sports medicine, cardiovascular autonomic physiology and physical rehabilitation."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -230,8 +230,8 @@ hugoblox:
   # Source code repository for "Edit this page" links
   # ────────────────────────────────────────────────────────────────────────────
   repository:
-    enable: false
-    url: "" # e.g., https://github.com/username/repo
+    enable: true
+    url: "https://github.com/DCL-y/DCL-y.github.io"
     branch: main
     content_dir: content
 
