@@ -55,27 +55,27 @@ interests:
 education:
   - degree: Professor (academic title)
     institution: South Ukrainian K. D. Ushynsky National Pedagogical University
-    end: 2011-01-01
+    year: 2011
   - degree: Doctor of Medical Sciences (DSc), specialty 14.01.24
     institution: Dnipropetrovsk State Medical Academy
-    end: 2008-01-01
+    year: 2008
     summary: |
       Therapeutic physical training and sports medicine.
   - degree: Associate Professor (docent, academic title)
     institution: South Ukrainian K. D. Ushynsky National Pedagogical University
-    end: 2006-01-01
+    year: 2006
   - degree: Candidate of Medical Sciences (PhD), specialty 14.01.24
     institution: Dnipropetrovsk State Medical Academy
-    end: 2001-01-01
+    year: 2001
   - degree: MSc in Physical Education
     institution: Sumy State Pedagogical University named after A. S. Makarenko
-    end: 2016-01-01
+    year: 2016
   - degree: MSc in Therapeutic Physical Training and Sports Medicine
     institution: Odesa State Medical University
-    end: 1997-01-01
+    year: 1997
   - degree: MD, Medicine (diploma with honours)
     institution: Odesa State Medical University
-    end: 1995-01-01
+    year: 1995
 
 experience:
   - role: Professor, Department of Internal and Family Medicine
