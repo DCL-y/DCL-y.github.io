@@ -14,3 +14,6 @@ main:
   - name: Books
     url: /#books
     weight: 40
+  - name: Experience
+    url: /experience/
+    weight: 50
