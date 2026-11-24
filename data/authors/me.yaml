@@ -51,3 +51,85 @@ interests:
   - Athlete monitoring, overreaching and overtraining
   - Physical and rehabilitation medicine
   - Spiroarteriocardiorhythmography (SACR)
+
+education:
+  - degree: Professor (academic title)
+    institution: South Ukrainian K. D. Ushynsky National Pedagogical University
+    end: 2011-01-01
+  - degree: Doctor of Medical Sciences (DSc), specialty 14.01.24
+    institution: Dnipropetrovsk State Medical Academy
+    end: 2008-01-01
+    summary: |
+      Therapeutic physical training and sports medicine.
+  - degree: Associate Professor (docent, academic title)
+    institution: South Ukrainian K. D. Ushynsky National Pedagogical University
+    end: 2006-01-01
+  - degree: Candidate of Medical Sciences (PhD), specialty 14.01.24
+    institution: Dnipropetrovsk State Medical Academy
+    end: 2001-01-01
+  - degree: MSc in Physical Education
+    institution: Sumy State Pedagogical University named after A. S. Makarenko
+    end: 2016-01-01
+  - degree: MSc in Therapeutic Physical Training and Sports Medicine
+    institution: Odesa State Medical University
+    end: 1997-01-01
+  - degree: MD, Medicine (diploma with honours)
+    institution: Odesa State Medical University
+    end: 1995-01-01
+
+experience:
+  - role: Professor, Department of Internal and Family Medicine
+    org: Lesya Ukrainka Volyn National University
+    start: 2024-07-01
+  - role: Head of the Medical Rehabilitation Department
+    org: Ukrainian Research Institute of Medical Rehabilitation and Balneology, Odesa
+    start: 2023-09-01
+    end: 2024-06-30
+  - role: Professor, Department of Sports Medicine and Human Health
+    org: Ivan Boberskyi Lviv State University of Physical Culture
+    start: 2021-07-01
+    end: 2023-08-31
+  - role: Professor, Department of Physical Therapy and Ergotherapy
+    org: Ivan Boberskyi Lviv State University of Physical Culture
+    start: 2020-09-01
+    end: 2021-06-30
+  - role: Head of the Department of General Medical Sciences
+    org: Odesa Medical Institute, International Humanitarian University
+    start: 2016-10-01
+    end: 2020-08-31
+  - role: Head of the Department of Theory and Methods of Physical Education, Therapeutic Physical Training and Sports Medicine
+    org: South Ukrainian K. D. Ushynsky National Pedagogical University
+    start: 2008-05-01
+    end: 2016-09-30
+  - role: Associate Professor, Department of Defectology and Physical Rehabilitation
+    org: South Ukrainian K. D. Ushynsky National Pedagogical University
+    start: 2003-09-01
+    end: 2008-04-30
+  - role: Physician in functional diagnostics and therapeutic physical training
+    org: V. P. Chkalov Clinical Sanatorium, Odesa
+    start: 2001-04-01
+    end: 2012-12-31
+    summary: |
+      Clinical work alongside academic posts, latterly as consultant physician.
+
+awards:
+  - title: Honorary Certificate
+    awarder: Odesa Regional State Administration
+    date: "2024-01-01"
+    icon: hero/trophy
+  - title: Gratitude of the Ministry of Education and Science of Ukraine
+    awarder: Ministry of Education and Science of Ukraine
+    date: "2021-01-01"
+    icon: hero/trophy
+  - title: Honorary Certificate
+    awarder: Odesa Regional State Administration
+    date: "2013-01-01"
+    icon: hero/trophy
+  - title: Certificate of Commendation
+    awarder: Southern Scientific Centre of the National Academy of Sciences of Ukraine
+    date: "2011-01-01"
+    icon: hero/trophy
+  - title: Certificate of Commendation
+    awarder: Odesa Regional State Administration
+    date: "2008-01-01"
+    icon: hero/trophy
