@@ -53,6 +53,15 @@ interests:
   - Spiroarteriocardiorhythmography (SACR)
 
 education:
+  - degree: FIFA Diploma in Football Medicine
+    institution: Fédération Internationale de Football Association (FIFA)
+    year: 2018
+    end: 2018-01-01
+  - degree: MSc in Physical Education
+    institution: Sumy State Pedagogical University named after A. S. Makarenko
+    year: 2016
+    start: 2015-09-01
+    end: 2016-06-30
   - degree: Professor (academic title)
     institution: South Ukrainian K. D. Ushynsky National Pedagogical University
     year: 2011
@@ -71,18 +80,16 @@ education:
     institution: Dnipropetrovsk State Medical Academy
     year: 2001
     end: 2001-01-01
-  - degree: MSc in Physical Education
-    institution: Sumy State Pedagogical University named after A. S. Makarenko
-    year: 2016
-    end: 2016-01-01
-  - degree: MSc in Therapeutic Physical Training and Sports Medicine
+  - degree: MSc in Therapeutic Physical Culture and Sports Medicine
     institution: Odesa State Medical University
     year: 1997
-    end: 1997-01-01
-  - degree: MD, Medicine (diploma with honours)
+    start: 1995-09-01
+    end: 1997-12-31
+  - degree: MD, General Medicine (diploma with honours)
     institution: Odesa State Medical University
     year: 1995
-    end: 1995-01-01
+    start: 1989-09-01
+    end: 1995-06-30
 
 experience:
   - role: Professor, Department of Internal and Family Medicine
@@ -92,7 +99,7 @@ experience:
     org: Ivan Boberskyi Lviv State University of Physical Culture
     start: 2024-09-01
   - role: Head of the Medical Rehabilitation Department
-    org: Ukrainian Research Institute of Medical Rehabilitation and Balneology, Odesa
+    org: Ukrainian Research Institute of Medical Rehabilitation and Resort Therapy, Odesa
     start: 2023-09-01
     end: 2024-06-30
   - role: Professor, Department of Sports Medicine and Human Health
@@ -107,13 +114,13 @@ experience:
     org: Odesa Medical Institute, International Humanitarian University
     start: 2016-10-01
     end: 2020-08-31
-  - role: Head of the Department of Theory and Methods of Physical Education, Therapeutic Physical Training and Sports Medicine
+  - role: Head of the Department of Theory and Methods of Physical Education, Physical Therapy and Sports Medicine
     org: South Ukrainian K. D. Ushynsky National Pedagogical University
     start: 2008-05-01
     end: 2016-09-30
   - role: Associate Professor, Department of Defectology and Physical Rehabilitation
     org: South Ukrainian K. D. Ushynsky National Pedagogical University
-    start: 2003-09-01
+    start: 2002-09-01
     end: 2008-04-30
   - role: Physician in functional diagnostics and therapeutic physical training
     org: V. P. Chkalov Clinical Sanatorium, Odesa
@@ -123,23 +130,38 @@ experience:
       Clinical work alongside academic posts, latterly as consultant physician.
 
 awards:
-  - title: Honorary Certificate
+  - title: State scholarship of the Ministry of Education and Science of Ukraine for researchers ranked in the National System of Researchers (2026–2028)
+    awarder: Ministry of Education and Science of Ukraine
+    date: "2026-01-01"
+    icon: hero/trophy
+  - title: Certificate of Honour
     awarder: Odesa Regional State Administration
     date: "2024-01-01"
     icon: hero/trophy
-  - title: Gratitude of the Ministry of Education and Science of Ukraine
+  - title: Letter of Commendation
     awarder: Ministry of Education and Science of Ukraine
     date: "2021-01-01"
     icon: hero/trophy
-  - title: Honorary Certificate
+  - title: Certificate of Honour for achievements in science
+    awarder: International Humanitarian University
+    date: "2017-01-01"
+    icon: hero/trophy
+  - title: Best Researcher of the Year
+    awarder: South Ukrainian K. D. Ushynsky National Pedagogical University
+    date: "2013-01-01"
+    icon: hero/trophy
+  - title: Certificate of Honour
     awarder: Odesa Regional State Administration
     date: "2013-01-01"
     icon: hero/trophy
-  - title: Certificate of Commendation
+  - title: Certificate of Merit
     awarder: Southern Scientific Centre of the National Academy of Sciences of Ukraine
     date: "2011-01-01"
     icon: hero/trophy
   - title: Certificate of Commendation
     awarder: Odesa Regional State Administration
     date: "2008-01-01"
+    icon: hero/trophy
+  - title: Medal "For Impeccable Medical Service"
+    awarder: Association of Specialists in Sports Medicine and Therapeutic Physical Culture of Ukraine
     icon: hero/trophy
