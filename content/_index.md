@@ -24,7 +24,8 @@ sections:
         size: md
       avatar:
         size: medium
-        shape: circle  - block: markdown
+        shape: circle
+  - block: markdown
     id: explore
     content:
       title: 'On this site'
