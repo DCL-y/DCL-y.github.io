@@ -130,35 +130,59 @@ experience:
       Clinical work alongside academic posts, latterly as consultant physician.
 
 awards:
-  - title: State scholarship of the Ministry of Education and Science of Ukraine for researchers ranked in the National System of Researchers (2026–2028)
+  - title: State scholarship for researchers ranked in the National System of Researchers of Ukraine (2026–2028)
     awarder: Ministry of Education and Science of Ukraine
     date: "2026-01-01"
     icon: hero/trophy
   - title: Certificate of Honour
-    awarder: Odesa Regional State Administration
+    awarder: Department of Education and Science, Odesa Regional State Administration
     date: "2024-01-01"
+    icon: hero/trophy
+  - title: Letter of Commendation for cooperation in the training of football coaches
+    awarder: Odesa Regional Football Association
+    date: "2022-01-01"
     icon: hero/trophy
   - title: Letter of Commendation
     awarder: Ministry of Education and Science of Ukraine
-    date: "2021-01-01"
+    date: "2021-10-01"
+    icon: hero/trophy
+  - title: Honorary Badge of the University
+    awarder: International Humanitarian University
+    date: "2019-06-01"
     icon: hero/trophy
   - title: Certificate of Honour for achievements in science
     awarder: International Humanitarian University
     date: "2017-01-01"
     icon: hero/trophy
-  - title: Best Researcher of the Year
+  - title: Medal "For Impeccable Medical Service"
+    awarder: Association of Specialists in Sports Medicine and Therapeutic Physical Culture of Ukraine
+    date: "2016-05-01"
+    icon: hero/trophy
+  - title: Letter of Commendation of the Rector for contribution to the development of national science
     awarder: South Ukrainian K. D. Ushynsky National Pedagogical University
-    date: "2013-01-01"
+    date: "2015-06-01"
+    icon: hero/trophy
+  - title: Letter of appreciation for organising the Ukrainian Top Mini-Cadets Table Tennis Tournament
+    awarder: Ukraine Table Tennis Federation
+    date: "2014-01-01"
     icon: hero/trophy
   - title: Certificate of Honour
-    awarder: Odesa Regional State Administration
+    awarder: Education and Science Directorate, Odesa Regional State Administration
+    date: "2013-03-01"
+    icon: hero/trophy
+  - title: Diploma, winner in the nomination "Best Researcher of the Year"
+    awarder: South Ukrainian K. D. Ushynsky National Pedagogical University
+    date: "2013-02-01"
+    icon: hero/trophy
+  - title: Certificate of Honour for achievements in sports medicine, therapeutic physical culture and physical rehabilitation
+    awarder: Association of Specialists in Sports Medicine and Therapeutic Physical Culture of Ukraine
     date: "2013-01-01"
     icon: hero/trophy
-  - title: Certificate of Merit
+  - title: Certificate of Merit, awarded jointly with the Council of Rectors of the Odesa Region
     awarder: Southern Scientific Centre of the National Academy of Sciences of Ukraine
     date: "2011-01-01"
     icon: hero/trophy
-  - title: Certificate of Commendation
-    awarder: Odesa Regional State Administration
+  - title: Certificate of Merit
+    awarder: Education and Scientific Activity Directorate, Odesa Regional State Administration
     date: "2008-01-01"
     icon: hero/trophy
