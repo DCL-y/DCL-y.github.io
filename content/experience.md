@@ -57,4 +57,26 @@ sections:
         - Association of Specialists in Sports Medicine and Exercise Therapy of Ukraine — since 2007
     design:
       columns: '1'
+  - block: markdown
+    id: cpd
+    content:
+      title: 'Continuing Professional Development'
+      text: |-
+        ### ESC e-learning courses (EACCME-accredited), 2026
+
+        - **2020 ESC Guidelines on Sports Cardiology and Exercise in Patients with Cardiovascular Disease** — 3 ECMEC®s, 12 May 2026
+        - **Obesity and Cardiovascular Disease** — 3 ECMEC®s, 12 May 2026
+        - **2025 Focused Update of the 2019 ESC/EAS Guidelines for the Management of Dyslipidaemias** — 1 ECMEC®, 12 May 2026
+        - **2025 ESC Consensus Statement on Mental Health and Cardiovascular Disease** — 3 ECMEC®s, 13 May 2026
+        - **2024 ESC Guidelines for the Management of Elevated Blood Pressure and Hypertension** — 3 ECMEC®s, 14 May 2026
+        - **2024 ESC Guidelines for the Management of Chronic Coronary Syndromes** — 3 ECMEC®s, 14 May 2026
+        - **2024 ESC Guidelines for the Management of Peripheral Arterial and Aortic Diseases** — 3 ECMEC®s, 21 May 2026
+        - **2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure** — 3 ECMEC®s, 22 May 2026
+        - **How to read an athlete's ECG?** (EAPC) — 1 ECMEC®, 23 May 2026
+
+        Total: 23 European CME credits (ECMEC®s).
+
+        ESC and EAPC webinars — regular participant.
+    design:
+      columns: '1'
 ---
