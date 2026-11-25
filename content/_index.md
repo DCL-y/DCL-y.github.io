@@ -9,6 +9,9 @@ sections:
     content:
       username: me
       text: ''
+      button:
+        text: Download CV
+        url: uploads/Romanchuk_CV.pdf
       headings:
         about: ''
         education: ''
