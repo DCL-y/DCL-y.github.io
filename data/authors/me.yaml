@@ -71,7 +71,7 @@ education:
     year: 2008
     end: 2008-01-01
     summary: |
-      Therapeutic physical culture and sports medicine.
+      Exercise therapy and sports medicine.
   - degree: Associate Professor (docent, academic title)
     institution: South Ukrainian K. D. Ushynsky National Pedagogical University
     year: 2006
@@ -80,7 +80,7 @@ education:
     institution: Dnipropetrovsk State Medical Academy
     year: 2001
     end: 2001-01-01
-  - degree: MSc in Therapeutic Physical Culture and Sports Medicine
+  - degree: MSc in Exercise Therapy and Sports Medicine
     institution: Odesa State Medical University
     year: 1997
     start: 1995-09-01
@@ -114,7 +114,7 @@ experience:
     org: Odesa Medical Institute, International Humanitarian University
     start: 2016-10-01
     end: 2020-08-31
-  - role: Head of the Department of Theory and Methods of Physical Education, Therapeutic Physical Culture and Sports Medicine
+  - role: Head of the Department of Theory and Methods of Physical Education, Exercise Therapy and Sports Medicine
     org: South Ukrainian K. D. Ushynsky National Pedagogical University
     start: 2008-05-01
     end: 2016-09-30
@@ -122,7 +122,7 @@ experience:
     org: South Ukrainian K. D. Ushynsky National Pedagogical University
     start: 2002-09-01
     end: 2008-04-30
-  - role: Physician in functional diagnostics and therapeutic physical culture
+  - role: Physician in functional diagnostics and exercise therapy
     org: V. P. Chkalov Clinical Sanatorium, Odesa
     start: 2001-04-01
     end: 2012-12-31
@@ -155,7 +155,7 @@ awards:
     date: "2017-01-01"
     icon: hero/trophy
   - title: Medal "For Impeccable Medical Service"
-    awarder: Association of Specialists in Sports Medicine and Therapeutic Physical Culture of Ukraine
+    awarder: Association of Specialists in Sports Medicine and Exercise Therapy of Ukraine
     date: "2016-05-01"
     icon: hero/trophy
   - title: Letter of Commendation of the Rector for contribution to the development of national science
@@ -174,8 +174,8 @@ awards:
     awarder: South Ukrainian K. D. Ushynsky National Pedagogical University
     date: "2013-02-01"
     icon: hero/trophy
-  - title: Certificate of Honour for achievements in sports medicine, therapeutic physical culture and physical rehabilitation
-    awarder: Association of Specialists in Sports Medicine and Therapeutic Physical Culture of Ukraine
+  - title: Certificate of Honour for achievements in sports medicine, exercise therapy and physical rehabilitation
+    awarder: Association of Specialists in Sports Medicine and Exercise Therapy of Ukraine
     date: "2013-01-01"
     icon: hero/trophy
   - title: Certificate of Merit, awarded jointly with the Council of Rectors of the Odesa Region
