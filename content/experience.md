@@ -54,7 +54,7 @@ sections:
 
         - European Society of Cardiology (ESC) and European Association of Preventive Cardiology (EAPC)
         - International Federation of Sports Medicine (FIMS) — individual member since 2012
-        - Association of Specialists in Sports Medicine and Therapeutic Physical Culture of Ukraine — since 2007
+        - Association of Specialists in Sports Medicine and Exercise Therapy of Ukraine — since 2007
     design:
       columns: '1'
 ---
