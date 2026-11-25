@@ -49,6 +49,7 @@ sections:
 
         - Ivan Boberskyi Lviv State University of Physical Culture — specialised academic council, 2022–2026
         - Dnipro State Medical University — specialised academic council, 2010–2017
+        - South Ukrainian K. D. Ushynsky National Pedagogical University — specialised academic council, 2010–2016
 
         ### Professional societies
 
