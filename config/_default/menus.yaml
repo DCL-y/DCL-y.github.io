@@ -2,21 +2,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: Home
     url: /
     weight: 10
   - name: Research
-    url: /#research
+    url: /research/
     weight: 20
   - name: Publications
-    url: /#publications
+    url: /publications/
     weight: 30
   - name: Books
-    url: /#books
+    url: /books/
     weight: 40
   - name: Talks
-    url: /#talks
-    weight: 45
-  - name: Experience
-    url: /experience/
+    url: /talks/
     weight: 50
+  - name: CV
+    url: /experience/
+    weight: 60
