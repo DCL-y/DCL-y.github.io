@@ -35,8 +35,18 @@ sections:
 
         ### Peer review
 
-        - *Journal of Bodywork & Movement Therapies* (Elsevier) — regular reviewer since 2024
-        - Baishideng *World Journal of…* series — reviewer; Reference Citation Analysis member since 2023
+        218 completed reviews for 34 journals are recorded in my [ORCID record](https://orcid.org/0000-0001-6592-2573) (2015–2026). Journals reviewed for most often:
+
+        - *Frontiers in Sports and Active Living* — 44 reviews (2025–2026)
+        - *International Journal of Human Movement and Sports Sciences* — 34 (2020–2024)
+        - *Cogent Medicine* — 29 (2015–2023)
+        - *Journal of Bodywork and Movement Therapies* (Elsevier) — 22 (2024–2026)
+        - *World Journal of Gastroenterology* — 10 (2025–2026)
+        - *Athens Journal of Sports* — 9 (2021–2025)
+        - *Cogent Education* — 8; *Academia Letters* — 8; *Cogent Social Sciences* — 6
+        - *World Journal of Cardiology*, *World Journal of Orthopedics*, *World Journal of Gastrointestinal Surgery*, *Cogent Food & Agriculture* — 4 each
+
+        Further titles include *Scientific Reports*, *Frontiers in Endocrinology*, *Journal of International Medical Research*, *Diabetes/Metabolism Research and Reviews*, *International Journal of Occupational Medicine and Environmental Health* and other journals of the Baishideng *World Journal of…* series.
 
         ### Expert and advisory work
 
