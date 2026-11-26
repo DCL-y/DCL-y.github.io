@@ -106,6 +106,26 @@ sections:
         - **2025-01-08** · ESC · Obesity: epidemiology, diagnosis, and impact on cardiovascular risk
         - **2025-01-07** · ACNAP · Climate change and cardiovascular disease
         - **2025-01-06** · EAPCI · The EAPCI Journal Club — OCCUPI: optical coherence tomography-guided coronary intervention in patients with complex lesions
+
+        ### 2024
+
+        - **2024-12-18** · ESC · Multimodality imaging in cardiomyopathies
+        - **2024-12-17** · ESC · Biomarkers of clinical utility in cardiovascular disease
+        - **2024-12-12** · HFA · Unmet needs in HF: patients with LVEF equal to or above 40%
+        - **2024-12-10** · EHRA · Access site management in focus: optimising the workflow
+        - **2024-12-06** · HFA · HF clinical trials and highlights from ESC Congress 2024
+        - **2024-12-02** · ESC · Addressing undertreatment in aortic valve disease: bridging the gap for women and the elderly
+        - **2024-11-22** · ESC · Aspirin and dual pathway inhibition for mitigating thrombotic risk across the cardiovascular risk continuum
+        - **2024-11-21** · ACVC · ACVC Best of conference 2024
+        - **2024-11-05** · EAPCI · The EAPCI Journal Club — RESHAPE-HF2: percutaneous repair of moderate-to-severe or severe functional mitral regurgitation in patients with symptomatic heart failure
+        - **2024-11-04** · ESC + ACNAP · Spotlight on aortic stenosis: raising awareness to enhance detection and diagnosis
+        - **2024-10-25** · EAPC · Lipoprotein(a): a modifiable risk factor of atherosclerotic cardiovascular disease
+        - **2024-10-14** · EHRA · The 12-lead ECG in different aetiologies of structural heart disease
+        - **2024-10-08** · ESC · The inflammasome in cardiovascular disease and beyond
+        - **2024-10-02** · EHRA · How to manage anticoagulation therapy in patients after cerebrovascular events
+        - **2024-09-30** · HFA · ESC Guidelines on SCD risk stratification: implications on daily clinical practice and decision-making
+        - **2024-09-23** · ESC · Common mechanisms of mood disorders and cardiovascular disease
+        - **2024-09-09** · ACNAP · Delivering cardio-renal-metabolic services in cardiology: real-world experience
     design:
       columns: '1'
 ---
