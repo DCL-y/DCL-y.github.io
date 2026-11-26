@@ -21,8 +21,8 @@ sections:
 
         Open access in the Lesya Ukrainka Volyn National University institutional repository (eVNUIR).
 
-        - **Propaedeutics of internal medicine** — manual for students of specialty 221 Dentistry; O. K. Yakovenko, O. P. Romanchuk, A. M. Hrytsiuk, K. M. Redko, B. O. Martyniuk, I. M. Sichkaruk. Lviv: FOP Marchenko T. V., 2026, 597 pp. ISBN 978-617-8682-83-5. [eVNUIR](https://evnuir.vnu.edu.ua/handle/123456789/31971)
-        - **Propaedeutics of internal medicine: subjective examination in clinical practice** — manual; O. P. Romanchuk, O. K. Yakovenko, N. D. Sydor. Lesya Ukrainka Volyn National University, Lutsk, 2025, 217 pp. [eVNUIR](https://evnuir.vnu.edu.ua/handle/123456789/27370)
+        - **Propaedeutics of internal medicine** — manual for students of specialty 221 Dentistry; O. K. Yakovenko, O. P. Romanchuk, A. M. Hrytsiuk, K. M. Redko, B. O. Martyniuk, I. M. Sichkaruk. Lviv: FOP Marchenko T. V., 2026, 597 pp. ISBN 978-617-8682-83-5. [eVNUIR](https://evnuir.vnu.edu.ua/handle/123456789/31971) · [references](/books/propaedeutics-dentistry-2026/)
+        - **Propaedeutics of internal medicine: subjective examination in clinical practice** — manual; O. P. Romanchuk, O. K. Yakovenko, N. D. Sydor. Lesya Ukrainka Volyn National University, Lutsk, 2025, 217 pp. [eVNUIR](https://evnuir.vnu.edu.ua/handle/123456789/27370) · [references](/books/propaedeutics-subjective-2025/)
 
         ### Earlier books and collective monographs
 
