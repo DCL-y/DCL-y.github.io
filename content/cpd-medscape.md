@@ -47,6 +47,37 @@ sections:
         - **2025-07-04** · WebMD Global · Identifying and Managing Homozygous Familial Hypercholesterolemia: Through the Eyes of the Patient and the Multidisciplinary Care Team · EBAC / contact hours
         - **2025-07-04** · WebMD Global · Do We Really Need New Antihypertensives? The Experts Analyze Why · 0.25 CME
         - **2025-07-03** · Medscape · LDL-C Goal Attainment: How Well Are We Doing and Could CETP Inhibition Move the Needle? · 0.50 CME
+        - **2025-06-26** · Medscape · Emerging Strategies for Atherosclerotic Cardiovascular Disease Risk Reduction: Micro Lessons · 0.50 CME
+        - **2025-06-25** · Medscape · Chronic Hypoparathyroidism Peer-to-Peer: Addressing Treatment-Related Complications and Comorbid Conditions · 0.50 CME
+        - **2025-06-22** · Medscape · ASCVD Through the Patient Lens: Advances, Challenges, and Action · 0.50 CME
+        - **2025-06-21** · Medscape · Pulmonary Arterial Hypertension Power Hour: Expert Talk Show · 1.0 CME
+        - **2025-06-21** · Medscape · Cardiovascular Implantable Electronic Device Infections: When and How to Refer to Optimize Patient Care · 0.50 CME
+        - **2025-06-08** · Medscape · Cardiovascular Prevention in a Flash: 5-Minute Lessons on Risk, Early Detection, and Treatment · 0.50 CME
+        - **2025-06-07** · Medscape / NYU Grossman School of Medicine · Race Against Inflammation: ASCVD and CKD Risk Reduction Insights · 1.0 CME
+        - **2025-06-07** · Medscape · Case-Based Insights on Managing Constipation · 1.0 CME
+        - **2025-06-05** · Medscape · Data-Driven Decisions in Familial Chylomicronemia Syndrome: Emerging Strategies to Guide Clinical Practice · 0.50 CME
+        - **2025-06-05** · WebMD Global · Should We Be Moving Toward Personalized Hypertension Management? Strategic Insights From the Experts · 0.25 CME
+        - **2025-06-05** · Medscape · Clinic Case Challenge: Can You Diagnose, Educate, and Manage this Metabolic Patient? · 0.25 CME
+        - **2025-05-20** · Medscape · New Paradigms in Hypertrophic Cardiomyopathy Care Gameshow Challenge: Cardiac Myosin Inhibition · 1.25 CME
+        - **2025-05-13** · Medscape · Teaming Up in the Race to Conquer Hypertension Management · 1.25 CME
+        - **2025-05-13** · Medscape · CMS Calls for Comments on Renal Denervation: Setting the Record Straight · 0.25 CME
+        - **2025-05-13** · Einstein/Montefiore · PAH Expert on the Spot: Challenging Case Discussion · 0.25 CME
+        - **2025-05-07** · Medscape · Pulmonary Hypertension Associated With Interstitial Lung Disease: What to Know for Clinical Practice · 0.50 CME
+        - **2025-05-07** · Medscape · Primary Care Strategies for Reducing Cardiovascular and Kidney Risks in Diabetes · 0.75 CME
+        - **2025-04-26** · Medscape · Insights to Impact in ATTR-CM: Bringing New Data and Treatments Into Routine Care · 0.75 CME
+        - **2025-04-26** · Medscape · Mitigating Aldosterone in Hypertension: New Data for Targeted Treatment Strategies · 0.50 CME
+        - **2025-04-25** · Medscape · Beyond Left Ventricular Hypertrophy in Hypertrophic Cardiomyopathy: A Patient Journey to Achieve Equitable Care · 1.0 CME
+        - **2025-04-24** · Medscape · Putting Patient Preference Recommendations Into Practice for Achieving Control for Resistant Hypertension · 0.50 CME
+        - **2025-04-22** · Medscape · Understanding Alagille Syndrome Across the Lifespan · 0.25 CME
+        - **2025-04-22** · Medscape · Hip Osteoarthritis Nonsurgical Therapeutic Strategies: A Patient Discussion · 0.25 CME
+        - **2025-04-17** · Medscape · Women's Hearts in Focus: Reframing Heart Disease Care Across the Life Course · 2.75 CME
+        - **2025-04-17** · Medscape · Enhancing Primary Care Confidence in Managing Obstructive Sleep Apnea in Patients With Comorbidities · 0.75 CME
+        - **2025-04-13** · Medscape · Charting New Paths in Uncontrolled Asthma: Expanding Access to Quality Care · 0.50 CME
+        - **2025-04-12** · WebMD Global · Accelerating Acute MI Intervention: The Pharmacology of Antiplatelet Therapy · EBAC / contact hours
+        - **2025-04-06** · Medscape · Understanding the Efficacy Data of JAK Inhibitors in Inflammatory Bowel Disease: Key Updates and Insights · 0.50 CME
+        - **2025-04-05** · Medscape · Medscape Now! Hot Topics in Women's Health, Edition 1 · 0.25 CME
+        - **2025-04-04** · WebMD Global · Obesity and Cardiovascular Disease: Can You Crack the Clinical Cases? · EBAC / contact hours
+        - **2025-04-03** · Medscape · AL Amyloidosis in Focus: Ongoing Innovations and Applicability to Practice · 0.50 CME
     design:
       columns: '1'
 ---
