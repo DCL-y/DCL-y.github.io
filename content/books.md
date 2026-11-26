@@ -17,6 +17,13 @@ sections:
         - **Physical rehabilitation and sports medicine** — manual, 2026. [DOI: 10.35668/978-617-8682-75-0](https://doi.org/10.35668/978-617-8682-75-0) · [landing page](https://dcl-y.github.io/physical-rehabilitation-sports-medicine-2026/)
         - **Epidemiology and principles of evidence-based medicine** — textbook (with O. K. Yakovenko and A. M. Hrytsiuk), 2026. [DOI: 10.35668/978-617-574-349-2](https://doi.org/10.35668/978-617-574-349-2) · [landing page](https://dcl-y.github.io/epidemiology-evidence-based-medicine-2026/)
 
+        ### Other teaching manuals
+
+        Open access in the Lesya Ukrainka Volyn National University institutional repository (eVNUIR).
+
+        - **Propaedeutics of internal medicine** — manual for students of specialty 221 Dentistry; O. K. Yakovenko, O. P. Romanchuk, A. M. Hrytsiuk, K. M. Redko, B. O. Martyniuk, I. M. Sichkaruk. Lviv: FOP Marchenko T. V., 2026, 597 pp. ISBN 978-617-8682-83-5. [eVNUIR](https://evnuir.vnu.edu.ua/handle/123456789/31971)
+        - **Propaedeutics of internal medicine: subjective examination in clinical practice** — manual; O. P. Romanchuk, O. K. Yakovenko, N. D. Sydor. Lesya Ukrainka Volyn National University, Lutsk, 2025, 217 pp. [eVNUIR](https://evnuir.vnu.edu.ua/handle/123456789/27370)
+
         ### Earlier books and collective monographs
 
         Each title has a registered DOI and an open landing page.
