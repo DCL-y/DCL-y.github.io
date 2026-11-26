@@ -36,9 +36,17 @@ sections:
         - **BJSM Live Para and Adaptive Sports Medicine Webinar** — BMJ, 27 August 2024
         - **ESC and EAPC webinars (EACCME-accredited)** — 101 webinars, September 2024 – November 2026, 1 ECMEC® each: ESC 35, Heart Failure Association 16, EAPC 10, EHRA 8, EAPCI 8, ESC Councils 6, ACVC 5, ACNAP 5, EACVI 2, Working Groups 2, Council of Cardio-Oncology 1, Council on Stroke 1, joint sessions 2. [Full list with topics and dates](/cpd/webinars/)
 
+        ### Online CME activities (Medscape and partner providers)
+
+        88 accredited online activities completed between December 2024 and April 2026, 51.75 AMA PRA Category 1 Credits™ in total, plus EBAC-accredited sessions and nursing contact hours credited by duration.
+
+        Providers: Medscape, LLC (64), WebMD Global (10), Voxmedia, American Association of Heart Failure Nurses, Albert Einstein College of Medicine – Montefiore Medical Center, National Kidney Foundation, Partners for Advancing Clinical Education, Projects in Knowledge, NYU Grossman School of Medicine.
+
+        Main topics: hypertension and resistant hypertension, lipid management and lipoprotein(a), heart failure and cardiomyopathies, cardio-renal-metabolic syndrome, pulmonary hypertension, obesity and cardiovascular risk.
+
         ### Credits
 
-        136 European CME credits (ECMEC®s) in total: 101 from webinars (2024–2026), 23 from ESC e-learning courses (2026) and 12 from the BASEM 2022 Annual Conference.
+        136 European CME credits (ECMEC®s): 101 from webinars (2024–2026), 23 from ESC e-learning courses (2026) and 12 from the BASEM 2022 Annual Conference; and 51.75 AMA PRA Category 1 Credits™ from online activities (2024–2026).
     design:
       columns: '1'
 ---
