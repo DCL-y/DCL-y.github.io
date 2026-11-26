@@ -20,3 +20,6 @@ main:
   - name: CV
     url: /experience/
     weight: 60
+  - name: CPD
+    url: /cpd/
+    weight: 70
