@@ -78,6 +78,39 @@ sections:
         - **2025-04-05** · Medscape · Medscape Now! Hot Topics in Women's Health, Edition 1 · 0.25 CME
         - **2025-04-04** · WebMD Global · Obesity and Cardiovascular Disease: Can You Crack the Clinical Cases? · EBAC / contact hours
         - **2025-04-03** · Medscape · AL Amyloidosis in Focus: Ongoing Innovations and Applicability to Practice · 0.50 CME
+        - **2025-03-29** · Medscape · Medscape Now! Hot Topics in Cardiology, January 2025 · 0.25 CME
+        - **2025-03-29** · Medscape · A Multidisciplinary Approach to Identifying and Managing Cortisol Dysfunction · 0.50 CME
+        - **2025-03-29** · Medscape · Assessing CGM Safety and Accuracy: Global Perspectives on Modern Diabetes Technology · 0.50 CME
+        - **2025-03-22** · Einstein/Montefiore · Evolving Frameworks in Pulmonary Arterial Hypertension: The When, Why, and How of Therapeutic Transitions · 0.25 CME
+        - **2025-03-16** · WebMD Global · The Patient With Obesity and Metabolic Syndrome · EBAC / contact hours
+        - **2025-03-15** · Medscape · Medscape Now! Hot Topics in Family Medicine, Edition 2 · 0.50 CME
+        - **2025-03-15** · Medscape · Medscape Now! Hot Topics in Cardiology, Edition 1 · 0.50 CME
+        - **2025-03-12** · Medscape · Medscape Now! Hot Topics in Family Medicine, February 2025, Part 2 · 0.50 CME
+        - **2025-03-12** · Medscape · Where Does Lung Cancer Screening Fit in My Practice · 0.25 CME
+        - **2025-03-04** · Medscape · Therapeutic Considerations in Obstructive Sleep Apnea: Understanding Treatment Options in Adults · 0.50 CME
+        - **2025-03-03** · Medscape · Fifth Annual Going Back to the Heart of Cardiology: Atherosclerosis and Thrombosis · 2.0 CME
+        - **2025-03-03** · WebMD Global · Could Your Patient With a Connective Tissue Disease Have Pulmonary Arterial Hypertension? · EBAC / contact hours
+        - **2025-02-26** · Medscape · Hypertrophic Cardiomyopathy Masterclass: Rapid-Fire Case Consults · 1.0 CME
+        - **2025-02-11** · Medscape · Acute Hepatic Porphyria: Expert Guidance on Diagnosis and Management · 0.50 CME
+        - **2025-02-11** · Medscape · Integrating New Fluid Management Technologies: Practical Solutions for Acute Heart Failure Care · 0.25 CME
+        - **2025-02-11** · Medscape · Medscape Now! Special Edition on Core Skills in Medicine, December 2024 · 0.25 CME
+        - **2025-02-11** · Medscape · Redefining Thrombosis Prevention: From the Patient Journey to Clinical Innovation · 1.0 CME
+        - **2025-02-11** · WebMD Global · Interdisciplinary Dialogue: A Cardiologist's Guide to Evidence-Based Obesity Care · EBAC / contact hours
+        - **2025-01-26** · Voxmedia · Treating Hyperkalemia in Patients With Heart Failure: Making the Right Choices · 1.25 CME
+        - **2025-01-26** · Medscape · New Frontiers in NSCLC: The Promise and Progress of HER2-Directed Therapies · 1.0 CME
+        - **2025-01-09** · Medscape · Advancing Chronic Kidney Disease Management in Type 2 Diabetes: Latest Therapies and Practical Insights · 0.50 CME
+        - **2025-01-09** · Medscape · Medscape Now! Hot Topics in Family Medicine, December 2024, Part 2 · 0.50 CME
+        - **2025-01-09** · WebMD Global · Confronting Obesity's Multifaceted Health Risks With Evidence-Based Strategies in Primary Care · EBAC / contact hours
+
+        ### 2024
+
+        - **2024-12-27** · Medscape · Rickettsia sibirica mongolitimonae infections in Spain and case review of the literature · 1.0 CME
+        - **2024-12-27** · Medscape · Pneumococcal septic arthritis among adults, France, 2010–2018 · 1.0 CME
+        - **2024-12-27** · Projects In Knowledge · R/R CLL: A Practical Guide to Integrating Newer Targeted Therapies and Use of Shared Decision Making · 1.25 CME
+        - **2024-12-26** · Medscape · Maximizing Touchpoints to Empower Impactful, Patient-Centered Care for Paroxysmal Nocturnal Hemoglobinuria · 1.0 CME
+        - **2024-12-26** · Medscape · Heart Failure With Preserved or Mildly Reduced Ejection Fraction: Impacting Health Outcomes With Nonsteroidal MRAs · 0.75 CME
+        - **2024-12-26** · Medscape · Latest Developments in LDL-C Reduction With CETP Inhibition in HeFH: Unpacking New Evidence · 0.50 CME
+        - **2024-12-17** · Medscape · Unpacking New Data From 2024 Congresses on Transthyretin Amyloid Cardiomyopathy · 0.50 CME
     design:
       columns: '1'
 ---
