@@ -38,7 +38,7 @@ sections:
 
         ### Online CME activities (Medscape and partner providers)
 
-        88 accredited online activities completed between December 2024 and April 2026, 51.75 AMA PRA Category 1 Credits™ in total, plus EBAC-accredited sessions and nursing contact hours credited by duration.
+        88 accredited online activities completed between December 2024 and April 2026, 51.75 AMA PRA Category 1 Credits™ in total, plus EBAC-accredited sessions and nursing contact hours credited by duration. [Full list with topics and dates](/cpd/medscape/)
 
         Providers: Medscape, LLC (64), WebMD Global (10), Voxmedia, American Association of Heart Failure Nurses, Albert Einstein College of Medicine – Montefiore Medical Center, National Kidney Foundation, Partners for Advancing Clinical Education, Projects in Knowledge, NYU Grossman School of Medicine.
 
