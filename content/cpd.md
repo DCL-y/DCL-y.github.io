@@ -34,7 +34,11 @@ sections:
 
         - **Para & Adaptive Sports Medicine for the Winter Athlete: Milano Cortina Live** — American Academy of Physical Medicine and Rehabilitation, 4 March 2026, 2.5 AMA PRA Category 1 Credits
         - **BJSM Live Para and Adaptive Sports Medicine Webinar** — BMJ, 27 August 2024
-        - ESC and EAPC webinars — regular participant
+        - **ESC and EAPC webinars (EACCME-accredited)** — 101 webinars, September 2024 – November 2026, 1 ECMEC® each: ESC 35, Heart Failure Association 16, EAPC 10, EHRA 8, EAPCI 8, ESC Councils 6, ACVC 5, ACNAP 5, EACVI 2, Working Groups 2, Council of Cardio-Oncology 1, Council on Stroke 1, joint sessions 2. [Full list with topics and dates](/cpd/webinars/)
+
+        ### Credits
+
+        136 European CME credits (ECMEC®s) in total: 101 from webinars (2024–2026), 23 from ESC e-learning courses (2026) and 12 from the BASEM 2022 Annual Conference.
     design:
       columns: '1'
 ---
