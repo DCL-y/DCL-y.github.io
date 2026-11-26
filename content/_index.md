@@ -36,6 +36,7 @@ sections:
         - **[Books and manuals](/books/)** — monographs and teaching editions, each with a DOI and an open landing page
         - **[Talks and posters](/talks/)** — conference presentations, with PDFs
         - **[CV](/experience/)** — positions, education, awards, editorial and expert activity
+        - **[CPD](/cpd/)** — accredited courses, conferences and webinars (continuing professional development)
     design:
       columns: '1'
 ---
