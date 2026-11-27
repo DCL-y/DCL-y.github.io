@@ -1,5 +1,6 @@
 ---
 title: 'Talks and Posters'
+description: 'Conference posters and talks in sports medicine and cardiorespiratory physiology, with downloadable PDFs and institutional repository links.'
 date: 2026-11-25
 type: landing
 
