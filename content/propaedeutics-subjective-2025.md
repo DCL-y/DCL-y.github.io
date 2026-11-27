@@ -1,5 +1,6 @@
 ---
 title: 'Propaedeutics of Internal Medicine: Subjective Examination, 2025 — references'
+description: 'Reference lists of the manual Propaedeutics of Internal Medicine: Subjective Examination in Clinical Practice (Lutsk, 2025, 217 pp.), with the repository link.'
 date: 2026-11-26
 type: landing
 url: /books/propaedeutics-subjective-2025/
