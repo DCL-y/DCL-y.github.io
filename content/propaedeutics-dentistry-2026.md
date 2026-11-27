@@ -1,5 +1,6 @@
 ---
 title: 'Propaedeutics of Internal Medicine (221 Dentistry), 2026 — references'
+description: 'Reference lists of the teaching manual Propaedeutics of Internal Medicine for specialty 221 Dentistry (Lviv, 2026, 597 pp.), with the repository link.'
 date: 2026-11-26
 type: landing
 url: /books/propaedeutics-dentistry-2026/
