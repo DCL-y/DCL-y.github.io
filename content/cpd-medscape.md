@@ -1,5 +1,6 @@
 ---
 title: 'Online CME activities — full list'
+description: 'Full list of 88 accredited online CME activities completed from December 2024 to April 2026, with providers and credits — 51.75 AMA PRA Category 1 Credits in total.'
 date: 2026-11-26
 type: landing
 url: /cpd/medscape/
