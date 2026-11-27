@@ -1,5 +1,6 @@
 ---
 title: 'Books and Teaching Manuals'
+description: 'Teaching manuals and collective monographs by Oleksandr P. Romanchuk, with registered DOIs, open-access links and full reference lists.'
 date: 2026-11-25
 type: landing
 
