@@ -1,5 +1,6 @@
 ---
 title: 'Research'
+description: 'Research on spiroarteriocardiorhythmography (SACR): simultaneous recording of heart rate, arterial pressure and respiration in athletes, hypertension and rehabilitation.'
 date: 2026-11-25
 type: landing
 
