@@ -1,5 +1,6 @@
 ---
 title: 'Experience'
+description: 'Academic and clinical career, editorial roles, peer review, expert work, dissertation councils and professional societies.'
 date: 2026-11-24
 type: landing
 
