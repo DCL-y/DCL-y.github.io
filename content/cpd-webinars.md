@@ -1,5 +1,6 @@
 ---
 title: 'ESC and EAPC webinars — full list'
+description: 'Full list of 101 EACCME-accredited webinars of the European Society of Cardiology and its associations, September 2024 to November 2026, with dates and titles.'
 date: 2026-11-26
 type: landing
 url: /cpd/webinars/
