@@ -1,5 +1,6 @@
 ---
 title: 'Continuing Professional Development'
+description: 'Continuing professional development: accredited conferences, ESC e-learning courses, webinars and online CME — 136 ECMEC credits and 51.75 AMA PRA Category 1 Credits.'
 date: 2026-11-26
 type: landing
 
